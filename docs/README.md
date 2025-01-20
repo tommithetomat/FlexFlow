@@ -3,8 +3,8 @@
 A lightweight and flexible layout engine for building user interfaces with Flexbox in TypeScript.
 
 ## Documentation
-- [English](docs/README.md)
-- [Русский](docs/README.ru.md)
+- [English](README.md)
+- [Русский](README.ru.md)
 
 ## Installation
 ```bash
