@@ -1,0 +1,14 @@
+node_modules/
+
+dist/
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+
+.env
+.env.local
+
+coverage/
