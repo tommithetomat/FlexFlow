@@ -30,4 +30,4 @@ console.log(root);
 ```
 
 ## Примеры
-- [Basic Usage](examples/basic.ts)
+- [Basic Usage](../examples/basic.ts)
