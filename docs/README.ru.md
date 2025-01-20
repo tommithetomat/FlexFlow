@@ -3,8 +3,8 @@
 Легковесный и гибкий движок для верстки пользовательских интерфейсов с использованием Flexbox на TypeScript.
 
 ## Документация
-- [English](docs/README.md)
-- [Русский](docs/README.ru.md)
+- [English](README.md)
+- [Русский](README.ru.md)
 
 ## Установка
 ```bash
