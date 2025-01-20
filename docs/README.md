@@ -27,4 +27,4 @@ calculateLayout(root);
 ```
 
 ## Examples
-- [Basic Usage](examples/basic.ts)
+- [Basic Usage](../examples/basic.ts)
